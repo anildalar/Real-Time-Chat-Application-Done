@@ -1,0 +1,31 @@
+Client Server Communication Protocol(Rules)
+
+1. HTTP (HyperText Transfer Protocol) 
+			Not application for realtime(instant)
+			With some delay
+
+			Works on Application Layer of OSI Model
+			Thats why it is slow
+2. Sockets
+			Instant communcation
+			Works on Network Layer of OSI model
+
+RealTime Application Example
+1. Whatsapp chat
+2. Instagram
+3. FB Messenger
+4. SnapChat
+5. StockMarket
+6. ATC Airport
+
+Computer Network
+
+OSI model
+
+Sockets works on Events
+
+
+Server  NodeJs/Socket Server
+ 
+Client   HTML/CSS/JS/ Socket client
+
